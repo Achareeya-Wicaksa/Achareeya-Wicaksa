@@ -7,7 +7,7 @@ I’m a **Junior Web Developer** passionate about continuous learning and growth
 - Internship at **PT Menara Indonesia**.  
 
 ## ⚙️ Tech Stack:  
-- **Frontend**: JavaScript, React.js  
+- **Frontend**: JavaScript, React.js, Next.js  
 - **Backend**: NestJS, Golang  
 
 🌱 Always excited to explore new technologies, solve problems, and build meaningful applications!  
