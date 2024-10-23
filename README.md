@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hello, World!  
+I’m a **Junior Web Developer** passionate about continuous learning and growth in tech. 🚀  
 
-<!--
-**IceManbrz/IceManbrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Experience:  
+- Completed a **6-month Frontend Development course** at **Ruangguru**.  
+- Internship at **PT Angkasa Pura I (Juanda Airport)**.  
+- Internship at **PT Menara Indonesia**.  
 
-Here are some ideas to get you started:
+## ⚙️ Tech Stack:  
+- **Frontend**: JavaScript, React.js  
+- **Backend**: NestJS, Golang  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Always excited to explore new technologies, solve problems, and build meaningful applications!  
+Let's connect and collaborate. 😊
