@@ -8,7 +8,12 @@ I’m a **Junior Web Developer** passionate about continuous learning and growth
 
 ## ⚙️ Tech Stack:  
 - **Frontend**: JavaScript, React.js, Next.js  
-- **Backend**: NestJS, Golang  
+- **Backend**: NestJS, Golang
+
+## 🌐 Personal page 
+👉 [Click me](https://tinyurl.com/achareeya)
 
 🌱 Always excited to explore new technologies, solve problems, and build meaningful applications!  
 Let's connect and collaborate. 😊
+
+
